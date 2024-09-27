@@ -31,6 +31,12 @@ header{
 }
 body{
     margin:0px; 
+#biug{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 
 
 
