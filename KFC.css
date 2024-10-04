@@ -1,0 +1,42 @@
+header{
+    height: 50px;
+    background-color: #BD4444;
+}
+#cortof{
+   width: 56px; 
+   height:46px ;
+   padding-right: 10px;
+}
+#log{
+    width: 120px; 
+   height:46px ;
+   padding-left: 10px;
+}
+#face{
+    
+    height: 179px;
+    border: 5px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+#text1{
+    display: flex;
+    justify-content: center;
+}
+#strel2{
+    height: 30px;
+    width: 30px;
+   padding: 10px 0px 10px 1100px;
+    
+}
+body{
+    margin:0px; 
+}
+#biug{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+

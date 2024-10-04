@@ -1,0 +1,60 @@
+header{
+background-color:#BB2302 ;  
+height: 117px;  
+}
+#cort{
+    width: 92px;
+    height: 80px;
+    padding: 18px;
+}
+#mac{
+    width: 471px;
+    height: 67px;
+    padding: 25px;
+}
+body{
+    margin: 0px;
+    font-size: 25px;
+}
+#mcc{
+    width: 245px;
+    height: 248px;
+    padding-right: 30px;  
+}
+#man{
+    width: 571px;
+    height: 363px;
+    padding-left: 30px;
+}
+.logotip{
+    border: 5px solid black;
+    display: flex;
+    align-items: center;
+}
+#text{
+    display: inline-block;
+}
+#fre{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+#h{
+    margin-left: 10px;
+}
+footer{
+    background-color: #BB2302;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+#McDonald{
+    color: black;
+    text-decoration: none;
+}
+#strel{
+    height: 55px;
+    width: 55px;
+   padding: 10px 0px 10px 1100px;
+    
+}
